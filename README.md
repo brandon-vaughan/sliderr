@@ -1,4 +1,4 @@
-sliderr
-=======
+compass-create
+==============
 
-CSS3/JS slider
+Compass boilerplate with customized structure
